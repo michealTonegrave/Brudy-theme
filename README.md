@@ -1,3 +1,4 @@
+## About this theme
 
 In order to install this theme, you should download the `brudy-theme.el` file, and put it in your `custom-theme-load-path`.
 You can specify your path in your `~/.emacs.d/init.el` file.
