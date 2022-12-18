@@ -12,3 +12,9 @@ For instance, suppose you have saved `brudy-theme.el` file in the `~/.emacs.d/th
 ```
 
 Note that the `~/.emacs.d/themes` directory can be created if not exists.
+
+
+## Screenshots
+
+![Screen one](./screen/theme1.png)
+![Screen two](./screen/theme2.png)
